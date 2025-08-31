@@ -1194,6 +1194,7 @@ a9c3e142-c4eb-4a2d-8f90-86c0f952d5fa,cornered.in,available,46,1,8,,,
 2143dfa5-840f-4b54-bc8b-02e97bd974b7,coruscant.in,available,56,6,9,,,
 7a308665-269b-4380-9085-b3a59656e610,cotyloid.in,available,46,1,8,,,
 ad43a83f-9535-4251-9632-4105535eec15,cotyloidal.in,available,44,1,10,,,
+0eb0aa8c-b630-4804-a84a-1369f3ff17fb,count.in,resell,122,17,5,"Dynadot, LLC",25/08/2008 20:00,25/08/2030 20:00
 85f31dac-82d4-4192-b03f-32582160b56c,courteous.in,resell,70,2,9,"Dynadot, LLC",03/10/2016 05:30,03/10/2025 05:30
 e3669af9-bba3-47e2-8e1f-c87131622793,coveted.in,resell,72,4,7,"Dynadot, LLC",23/06/2016 20:00,23/06/2026 20:00
 8527e7bd-e811-471c-9fa2-a478e7f8fec9,covetous.in,available,54,1,8,,,
@@ -1380,6 +1381,7 @@ baccfe76-2e89-44be-981b-df8772a99d6d,fivesome.in,available,82,1,8,,,
 532da5cc-1bdd-401f-bf33-c69baf62d3fa,flip.in,resell,70,33,4,"Dynadot, LLC",05/04/2006 20:02,05/04/2028 20:02
 1d19fe1f-a033-4e87-8834-7ee37385efec,flooded.in,available,60,3,7,,,
 6f03d39e-a514-4294-a318-04f87c503e72,flying.in,resell,96,22,6,"Spaceship, Inc.",23/05/2009 21:15,23/05/2026 21:15
+e72b2ef5-7ae6-4053-afec-183b0bb04eca,food.in,resell,94,41,4,1API GmbH,16/02/2005 06:30,16/02/2026 06:30
 a244d7de-81b3-438f-85f7-d778bcb35d1f,force.in,resell,72,25,5,101domain GRS Ltd.,17/02/2005 07:17,17/02/2026 07:17
 819e106b-0efe-47fe-9663-6c629187f34e,foreigner.in,resell,60,5,9,Uniregistrar Corp,15/12/2009 04:33,15/12/2025 04:33
 2b356c2e-0e9c-4d40-b895-d05878213dce,forgiving.in,available,96,3,9,,,
@@ -1445,6 +1447,7 @@ e1e200b6-41b9-436b-bd68-1ef4526dfbd2,hawkeyed.in,available,46,2,9,,,
 2d01be5c-ee05-482b-b45a-87e2f40809d4,hearable.in,resell,60,4,8,GoDaddy,29/10/2016 22:16,29/10/2025 22:16
 4d3bde63-8c4e-4782-8176-c2d3b01e0943,hearing.in,resell,94,23,7,"Dynadot, LLC",23/03/2006 20:00,23/03/2027 20:00
 6d85c6ba-74cd-4087-a5bb-7a01bc22eb6f,heedful.in,available,66,1,7,,,
+170f0dc2-6d49-406b-ad1c-d7446d7fa849,height.in,resell,70,11,6,Uniregistrar Corp,24/08/2008 09:51,24/08/2026 09:51
 d50533f6-d871-42f7-a410-0581e604bdc0,hellish.in,resell,46,3,7,NAMECHEAP,08/08/2024 17:19,08/08/2026 17:19
 e322c16b-4095-4de8-a3e4-d8b8b43dc81c,helminthic.in,available,68,1,10,,,
 ab86378d-5efa-4a31-80f1-ac06da55b9b7,help.in,resell,68,38,4,"Spaceship, Inc.",16/02/2005 06:31,16/02/2026 06:31
@@ -1457,6 +1460,7 @@ f573b3a4-d8b9-4053-8468-e854f3a96f9e,hesitation.in,available,62,4,10,,,
 98bfffbd-cfca-4c3a-a33a-fb41f2705645,hinder.in,available,98,9,6,,,
 24dbd4bb-e619-436f-8daa-677d18563d61,hindermost.in,available,42,1,10,,,
 7052a3a2-d614-49b2-846b-1aba1d6b4217,hindmost.in,available,42,1,8,,,
+b6155d91-7687-4f30-8da8-cf05427644a9,hit.in,resell,78,,3,1API GmbH,16/02/2005 06:31,16/02/2026 06:31
 51b3185e-fb90-46a0-98d7-fd940cc522c1,hokey.in,available,52,3,5,,,
 991a992e-3b34-40b5-893d-1e925a19540f,hold.in,resell,100,23,4,united-domains AG,16/02/2005 07:55,16/02/2026 07:55
 afd46de1-b20e-441f-992b-d99f29172ca7,homoecious.in,available,48,1,10,,,
@@ -1586,37 +1590,56 @@ bfda6b2f-d438-4e5a-b2ea-2b40d634f917,lxxvii.in,available,52,2,6,,,
 7d7bbc5c-583d-4105-96fe-5c2c30297b57,lxxxvii.in,available,52,1,7,,,
 1339cd55-f958-465a-98c4-4c7069f7bd64,lxxxviii.in,available,48,2,8,,,
 97bb537e-4303-4ccf-a2b1-f01f38c6750b,lynxeyed.in,available,46,1,9,,,
+af9b7f22-c0d9-4d4e-9aae-2684c8880d82,lyric.in,resell,68,16,5,"Dynadot, LLC",01/05/2012 20:00,01/05/2031 20:00
 fa23fcc2-b86d-4bd6-b216-93d998c9d32d,ma.in,available,94,31,4,,,
+0f3b053b-478c-4d8d-8cde-ef3ad680b1b1,macro.in,resell,84,32,5,Endurance Digital Domain Technology Private Limited,02/05/2010 20:02,02/05/2027 20:02
 c2216fb4-27a6-443a-9add-a0053795bb1f,mad.in,resell,66,38,3,"Spaceship, Inc.",22/03/2006 20:56,22/03/2026 20:56
 ba101e6b-ceb7-40ef-a4d3-af43dff40aac,maddened.in,available,37,2,8,,,
 29f5b4c9-e7ac-4e2e-8b42-7696f1141c8f,maker.in,resell,70,33,5,"Dynadot, LLC",18/05/2008 20:02,18/05/2031 20:02
 62d24fb6-5e1c-40f8-922b-8aa813002bd2,maledict.in,available,56,2,8,,,
+f53d22ec-eaa1-4cdf-acf9-61a82ed42239,manual.in,resell,66,19,6,"Dynadot, LLC",06/05/2010 20:00,06/05/2030 20:00
 df7420d2-f468-481c-a6d2-0de96670ecdd,mark.in,resell,66,38,4,Endurance Digital Domain Technology Private Limited,06/05/2006 20:00,06/05/2027 20:00
+a8864056-5c5e-4e2a-b75d-8e0b6d2c045f,marooned.in,available,50,4,8,,,
 976f7642-1dd2-4c26-b975-8f93a982df5a,material.in,resell,106,23,8,"Dynadot, LLC",23/03/2006 20:00,23/03/2027 20:00
+40de6ff1-15f7-4949-9fd0-3744de878ca9,matt.in,resell,72,69,4,"Spaceship, Inc.",21/04/2014 20:00,21/04/2026 20:00
 605c0723-d91b-45bb-89d1-580c73628f8e,maudlin.in,available,44,2,7,,,
 647f6439-b060-4753-b5fa-63518a9700f3,mawkish.in,available,48,1,7,,,
 648a9558-ab49-4863-a48b-dcc8ee46b526,mazed.in,available,45,4,5,,,
 182a817a-fef7-400a-b3f3-9c487cdd9370,meantime.in,available,82,7,8,,,
+0d29db79-ab91-4797-b5ef-4795f012cda2,medium.in,resell,98,26,6,"Dynadot, LLC",22/03/2006 23:58,22/03/2027 23:58
+6ebb6c99-64ee-4059-ac71-43737668fb9d,mental.in,resell,86,25,6,"Dynadot, LLC",21/07/2023 20:00,21/07/2026 20:00
+6044fb5c-ee1e-4a2c-ace6-b5b2106ed71e,messy.in,resell,62,19,5,"Dynadot, LLC",30/05/2022 20:00,30/05/2026 20:00
+6c2fda7d-ddff-494d-bea8-7c8304222fc7,metal.in,resell,114,30,5,1API GmbH,16/02/2005 06:33,16/02/2026 06:33
 ba507ca3-4a0f-4c77-99d4-ed7392073903,metedout.in,available,41,1,9,,,
+73b3ce9f-1995-459e-aed8-1a97665876aa,metric.in,resell,104,24,6,"Spaceship, Inc.",11/07/2018 20:02,11/07/2026 20:02
 3df71093-08a9-4417-bbc7-f4cf264f1a5a,middle.in,resell,116,20,6,V2 Technosys dba BookYour.IN,26/10/2011 20:00,26/10/2030 20:00
 1939324a-38af-48e7-93f9-37d1fed9c7e8,midships.in,available,61,2,8,,,
 25ed6ca6-1ef0-443c-a2f9-582fe67b5004,miffed.in,available,41,1,6,,,
 4c53845c-1788-4c9c-af14-5de480333b3d,militant.in,available,72,4,8,,,
+798ed218-5996-456e-9686-965c3a2392d4,military.in,resell,74,30,8,NAMECHEAP,16/02/2005 06:58,16/02/2026 06:58
 d65f9a77-eb45-4033-a701-24f5af5a8f4b,minuscule.in,available,78,6,9,,,
 6f17f6ca-1333-4794-bde0-7f91d497bc69,misbegot.in,available,39,1,8,,,
 839564eb-0ccc-4591-8652-932c4ce81888,miserable.in,available,70,4,9,,,
+f087b6e1-d673-4675-bbde-47973293cef9,mist.in,resell,62,25,4,Mesh Digital Limited,09/07/2025 05:58,09/07/2026 05:58
 e68025d0-3406-464e-b569-444dbe9b5199,mitigative.in,available,66,1,10,,,
 4ebcd08e-0b45-412b-8800-acf986e2f872,mitigatory.in,available,66,1,10,,,
 46649ea6-3554-4991-ab17-fa2ad5712cb9,mixed.in,resell,60,14,5,101domain GRS Ltd.,09/03/2006 20:34,09/03/2026 20:34
 0d8d0597-2adf-4b8e-9a87-0fc9eaf78762,moderately.in,available,56,3,10,,,
+096163e5-863e-405d-9bc9-926b4d2eb7f0,moldy.in,available,52,12,5,,,
 ea4ca443-8b38-4b12-a72c-e14e5d656b4c,monitory.in,available,54,4,8,,,
+e296455f-e9e0-4ec8-9ff3-14a63030b8aa,mono.in,resell,84,37,4,"Dynadot, LLC",16/02/2005 06:48,16/02/2027 06:48
 9b666fe6-eb83-482c-8f8f-0f5bf61fc999,monstrous.in,available,46,6,9,,,
+ea17f136-c28f-41d8-ad83-fd9a5b074ba3,monthly.in,resell,92,17,7,"Dynadot, LLC",22/04/2009 20:01,22/04/2031 20:01
+aebbf784-195c-48af-93e7-9d755e73da30,monumental.in,resell,66,16,10,Endurance Digital Domain Technology Private Limited,24/06/2005 20:04,24/06/2028 20:04
 e1b4c5f4-50ee-4e2c-ad1f-746cd5269a6b,mordacious.in,available,44,1,10,,,
 648c8b23-939d-464a-b3fd-e72cb4e14895,mouthless.in,available,34,1,9,,,
+10b3462c-d3ea-409c-8e73-a3601b78810a,moving.in,resell,90,27,6,Endurance Digital Domain Technology Private Limited,16/02/2005 06:36,16/02/2028 06:36
 26fef979-ca8e-4df6-aa69-4d7252282c81,mysterious.in,resell,68,18,10,"Dynadot, LLC",29/04/2012 11:14,29/04/2026 11:14
 372406e5-3519-47c7-89d6-3251c89573ba,nates.in,available,42,9,5,,,
+51516ce9-ae1f-4583-847b-af02c4900942,national.in,resell,78,22,8,Endurance Digital Domain Technology Private Limited,16/02/2005 06:37,16/02/2028 06:37
 f57ef5ac-be36-4cc9-9895-25658d735c0b,neat.in,resell,64,29,4,V2 Technosys dba BookYour.IN,15/08/2009 04:32,15/08/2030 04:32
 aecc048c-52ad-4fa5-8c81-c9958901b399,necessity.in,resell,72,8,9,Suryanandan.net,10/02/2017 20:02,10/02/2026 20:02
+f09b20e2-5491-424b-b7f2-22d0c2bfa6ef,need.in,resell,104,32,4,"Dynadot, LLC",22/04/2009 20:02,22/04/2028 20:02
 456e9a9e-b23c-4141-832a-ba6fd05fb9ab,needlelike.in,available,50,1,10,,,
 32c86b4a-5c63-4bd7-8bb2-3a291b6d1d9d,nettled.in,available,45,1,7,,,
 b3a7c9fa-7f16-4c60-bb75-f4a79e9c4640,nettlesome.in,available,41,1,10,,,
@@ -1631,6 +1654,7 @@ d9ce0eef-f210-48d5-b7d2-faac121a98e8,nipping.in,available,56,1,7,,,
 2fab2bbf-72b8-499c-ba2f-bc9996105b19,nitrous.in,available,56,8,7,,,
 c127db3f-439f-4766-8f79-4ca4e6b53db1,noncitizen.in,available,56,3,10,,,
 64fd5190-79a6-4ce2-be51-96bac2394a78,nondrinker.in,available,64,2,10,,,
+08970b28-0e2b-4de0-b927-d76b357217c7,none.in,resell,86,19,4,"Spaceship, Inc.",05/05/2015 20:01,05/05/2026 20:01
 56058277-d256-4081-9a0b-7485b46e7d13,nonplused.in,available,41,1,9,,,
 eb4685d8-7e90-45ac-878e-19fa59945c11,nonplussed.in,available,41,2,10,,,
 20b31357-e8fa-472b-967c-95bb927b5dab,nonsexual.in,available,54,2,9,,,
@@ -1638,6 +1662,7 @@ fe48ab05-61e2-4944-8a87-2d305c1b4392,norm.in,resell,74,20,4,"Spaceship, Inc.",13
 bd51eaaf-2569-4a43-a4f5-1e38ce6b769d,noticeable.in,available,68,3,10,,,
 9b18a93a-a43b-4c36-a003-38af99e021ab,numb.in,resell,74,7,4,GoDaddy,27/08/2010 19:11,27/08/2026 19:11
 e4e4a5a5-f20e-45de-a4ad-fbe90816fd1f,nutritive.in,available,84,2,9,,,
+71e941a9-4b61-451f-8730-b269219ecff7,object.in,resell,92,26,6,"Dynadot, LLC",07/05/2009 20:00,07/05/2030 20:00
 1f1d8f66-af5a-40c2-ad3a-95beba113200,obscene.in,resell,76,5,7,"Dynadot, LLC",05/04/2006 20:01,05/04/2028 20:01
 7755d0c7-e17f-4751-8d4e-3ca0155162fb,obscure.in,resell,78,15,7,"Spaceship, Inc.",04/08/2018 20:02,04/08/2026 20:02
 dcb9ce38-15b4-4eac-822a-9d1183c7dd29,observed.in,available,68,3,8,,,
@@ -1718,12 +1743,15 @@ f55bf51d-5b57-4320-91f9-b9dd5d1bf247,practiced.in,available,70,4,9,,,
 acdce370-756b-4ca3-8fe2-afe791aaf953,prehensile.in,available,54,1,10,,,
 63dbea22-ce12-4484-94ae-14a4f30af1a4,prenominal.in,available,60,1,10,,,
 d7d31332-8316-4c59-9e6e-32a65ffe30e5,prenuptial.in,resell,88,2,10,"Dynadot, LLC",25/03/2012 19:33,25/03/2026 19:33
+1310e6d7-5c9f-45de-bee6-fdb9c5b7fd37,pretence.in,available,64,2,8,,,
 2b6b9427-19b7-4fab-bfa1-c39b38249fad,pretended.in,available,44,1,9,,,
+464fe86b-f335-4f26-9452-6fac82ef8d05,pretense.in,available,64,3,8,,,
 a571febe-e1c5-497b-8d9d-7bb66fefa1f1,prevenient.in,available,56,1,10,,,
 20abf0f5-b21e-427a-b014-59ed0da1c4d9,prickly.in,available,80,5,7,,,
 e8c9b9bb-724e-4824-b1fe-7544fb6f0361,probably.in,resell,64,14,8,Uniregistrar Corp,01/06/2009 17:58,01/06/2026 17:58
 f2842d46-391e-4f0e-bc46-cce964c6bbd8,proclaimed.in,available,62,1,10,,,
 8f48f790-8665-4922-836c-ff70fbeb84cf,project.in,resell,100,43,7,Epik LLC,16/02/2005 06:32,16/02/2026 06:32
+3fd783be-60e7-4ea2-90fe-8ee79cb05135,pronounced.in,available,62,7,10,,,
 d669b95c-4fce-4f06-baae-d3211c2ecc37,prototypal.in,available,56,1,10,,,
 0f77e5b6-dcf8-4b26-8763-47a4404270c2,prototypic.in,available,56,2,10,,,
 7709820d-e7a5-4ea2-b729-1cae99c57d3a,provoking.in,available,74,2,9,,,
@@ -1786,6 +1814,7 @@ e40edf2d-575b-4bfa-8578-154eb65e79ed,salientian.in,available,61,1,10,,,
 f6f2daf6-a093-4753-a500-9b20ee65ea17,sandlike.in,available,46,1,8,,,
 b3520063-f792-4659-a2c4-76badea83c9d,satanic.in,available,48,11,7,,,
 7cccbbca-e13c-41af-af20-d798750ad89a,savage.in,resell,50,36,6,Suryanandan.net,07/10/2017 20:01,07/10/2025 20:01
+9b345aef-8e8c-4ca6-8d07-07c68d67a604,scarred.in,available,56,4,7,,,
 8af43ea4-3780-4f3e-b97e-a3b5c324a0de,scatty.in,available,64,1,6,,,
 823c4be5-c3c0-435d-8f01-14f7f865b646,schmaltzy.in,available,42,1,9,,,
 ffb6946d-d77a-449f-a679-85efb6cbd591,schmalzy.in,available,42,1,8,,,
@@ -1823,6 +1852,7 @@ f1ee3cca-210a-42b8-bf43-fc0630cae338,sick.in,resell,62,22,4,1API GmbH,24/05/2006
 2a079b41-b558-4420-80b6-46c18d2f9a43,sickabed.in,available,42,0,9,,,
 87a65a76-9ce9-4c4e-89af-05886c1587db,sickly.in,available,88,3,6,,,
 487d6d91-f828-44d0-92b0-7a7d473cddcb,sidelong.in,available,52,2,8,,,
+ad7c3839-a729-4450-87c0-6441ee637c93,silent.in,resell,80,28,6,Endurance Digital Domain Technology Private Limited,25/08/2008 20:01,25/08/2031 20:01
 09c327ce-001e-4a1f-ada1-3aa82e7fddaa,situated.in,available,58,5,8,,,
 2c25634f-33b7-403f-ae2e-1d7d954b7d32,six.in,resell,66,27,3,Endurance Digital Domain Technology Private Limited,16/02/2005 06:37,16/02/2028 06:37
 518090f8-9337-46c4-b486-a28cad7e49d6,sixteenth.in,available,62,1,9,,,
@@ -1864,6 +1894,7 @@ c8ddbd27-4c47-43d7-b623-9268dbf77e26,spinous.in,available,50,1,7,,,
 c190f874-ac68-4c9e-9dfd-a80b96689ea0,squat.in,resell,94,8,5,"Dynadot, LLC",27/10/2007 16:34,27/10/2027 16:34
 c1f78657-2a13-494c-9f08-67c8627e9dba,squint.in,available,72,6,6,,,
 079d2fc3-bf6b-428e-af53-0dd75db965ca,squinty.in,available,48,2,7,,,
+d2e4046a-8e08-46da-a955-25340f9c2b1e,stain.in,resell,82,9,5,"Dynadot, LLC",23/10/2007 21:29,23/10/2027 21:29
 089eadde-6322-4d72-ac38-703fb22feac2,staminate.in,available,56,1,9,,,
 5b4bc5db-792d-4a57-ab2c-d7b72758c975,starchlike.in,available,46,1,10,,,
 b2ac0a49-610e-4c5e-8036-0e4b1111acfc,starred.in,resell,48,5,7,GoDaddy,24/02/2005 11:58,24/02/2026 11:58
@@ -1918,6 +1949,7 @@ c7a86394-3ad8-49ae-a14e-0bc66805ae3d,threesome.in,resell,68,5,9,NIXI Holding Acc
 27a403b3-af9e-42db-96da-9f4daa419bdd,toilsome.in,available,50,1,8,,,
 0827e255-df2c-4e96-8d0c-5254c9767c43,tolerable.in,available,68,4,9,,,
 4b2a6482-9952-42ba-b409-35b4fb4c2dc8,tooshie.in,available,42,1,7,,,
+2810a4f0-1a20-42df-ad22-e24102727fd4,top.in,resell,82,42,3,1API GmbH,16/02/2005 06:33,16/02/2026 06:33
 6ff3092a-3bfa-4ef4-a6c6-abaaaa29fbed,topless.in,resell,70,11,7,GoDaddy,10/05/2019 05:31,10/05/2026 05:31
 69bd25bd-2d0a-4f4b-8f61-fe782f6feda4,tormented.in,available,42,4,9,,,
 52a63ab4-c35c-45d6-96f9-093b101a1fc9,torturing.in,available,52,1,9,,,
@@ -2007,6 +2039,7 @@ cd32f897-ab3d-45b4-8ba5-d09cdfcefa94,whopping.in,available,78,1,8,,,
 b245506a-c2c6-49ac-b441-bbc355996583,wonderful.in,resell,88,30,9,"Dynadot, LLC",25/03/2006 20:05,25/03/2027 20:05
 33358cce-dab6-4591-8e1b-c45c0c64c9c7,wonky.in,available,66,7,5,,,
 455dd337-766a-47e7-be8c-67218e1481a7,wordblind.in,available,32,2,10,,,
+94730aac-bfbe-479a-89ba-c8ce5bbd899e,words.in,resell,86,26,5,"Dynadot, LLC",22/04/2009 20:00,22/04/2028 20:00
 0811960b-7e75-4439-89aa-c13b23625e0a,worshipful.in,available,80,1,10,,,
 9485b7ce-65f0-4c77-a398-f5a8f6b4339d,wounded.in,available,62,7,7,,,
 4bb6bbda-e7ad-4ee9-bcf3-938d6c204937,wrapped.in,resell,62,13,7,"Dynadot, LLC",24/10/2022 20:00,24/10/2025 20:00
