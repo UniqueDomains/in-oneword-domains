@@ -70,19 +70,19 @@ print(df.head())
 | corrupted.in  | available | $11.98    | —             | 52             | 10     | 9      | namecheap                                           |
 | weather.in    | resell    | —         | —             | 118            | 99     | 7      | Endurance Digital Domain Technology Private Limited |
 | va.in         | premium   | —         | —             | 68             | 98     | 4      | —                                                   |
-| compelling.in | available | $11.98    | —             | 92             | 9      | 10     | namecheap                                           |
+| crying.in     | available | $11.98    | —             | 82             | 9      | 6      | namecheap                                           |
 | funny.in      | resell    | —         | —             | 111            | 99     | 5      | GoDaddy                                             |
 | observed.in   | premium   | —         | —             | 68             | 97     | 8      | —                                                   |
-| crying.in     | available | $11.98    | —             | 82             | 9      | 6      | namecheap                                           |
+| enduring.in   | available | $9.98     | —             | 82             | 9      | 8      | namecheap                                           |
 | quality.in    | resell    | —         | —             | 92             | 99     | 7      | Endurance Digital Domain Technology Private Limited |
 | jo.in         | premium   | —         | —             | 96             | 41     | 4      | —                                                   |
-| enduring.in   | available | $9.98     | —             | 82             | 9      | 8      | namecheap                                           |
+| contingent.in | available | $11.98    | —             | 80             | 9      | 10     | namecheap                                           |
 | gas.in        | resell    | —         | —             | 72             | 99     | 3      | Endurance Digital Domain Technology Private Limited |
 | ra.in         | premium   | —         | —             | 98             | 37     | 4      | —                                                   |
-| contingent.in | available | $11.98    | —             | 80             | 9      | 10     | namecheap                                           |
+| abject.in     | available | $9.98     | —             | 94             | 8      | 6      | namecheap                                           |
 | dock.in       | resell    | —         | —             | 70             | 99     | 4      | Dynadot, LLC                                        |
 | sk.in         | premium   | —         | —             | 98             | 35     | 4      | —                                                   |
-| abject.in     | available | $9.98     | —             | 94             | 8      | 6      | namecheap                                           |
+| compelling.in | available | $11.98    | —             | 92             | 8      | 10     | namecheap                                           |
 | away.in       | resell    | —         | —             | 126            | 98     | 4      | Endurance Digital Domain Technology Private Limited |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
