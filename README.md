@@ -1,10 +1,10 @@
-# Available .IN One-Word Domains (6,532)
+# Available .IN One-Word Domains (6,548)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C532%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C548%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .in one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **6,532 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **6,548 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 6,532 domains
+**Public extract:** 1,000 rows · **Live catalog:** 6,548 domains · **Median ask:** $11.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/in`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
 | RedSox.in        | available | $11.98    | —             | 72             | 60     | 7      | namecheap              |
 | makers.in        | resell    | —         | —             | 62             | 67     | 6      | Realtime Register B.V. |
-| legalheir.in     | premium   | —         | —             | 71             | 1      | 10     | —                      |
+| irons.in         | premium   | —         | —             | 62             | 8      | 5      | —                      |
 | tomorrows.in     | available | $7.95     | $7.95         | 60             | 11     | 9      | namesilo               |
 | united.in        | resell    | —         | —             | 74             | 41     | 6      | Dynadot, LLC           |
-| plateout.in      | premium   | —         | —             | 65             | 1      | 9      | —                      |
+| legalheir.in     | premium   | —         | —             | 71             | 1      | 10     | —                      |
 | yoursever.in     | available | $11.98    | —             | 56             | 10     | 10     | namecheap              |
 | shortcuts.in     | resell    | —         | —             | 48             | 41     | 10     | Dynadot, LLC           |
-| platearmour.in   | premium   | —         | —             | 65             | 1      | 12     | —                      |
+| plateout.in      | premium   | —         | —             | 65             | 1      | 9      | —                      |
 | mutualaid.in     | available | $11.98    | —             | 78             | 9      | 10     | namecheap              |
-| list.in          | resell    | —         | —             | 70             | 35     | 4      | Dynadot, LLC           |
+| block.in         | resell    | —         | —             | 68             | 36     | 5      | NAMECHEAP              |
+| platearmour.in   | premium   | —         | —             | 65             | 1      | 12     | —                      |
 | divein.in        | available | $11.98    | —             | 76             | 9      | 7      | namecheap              |
-| dawn.in          | resell    | —         | —             | 70             | 33     | 4      | Dynadot, LLC           |
+| list.in          | resell    | —         | —             | 70             | 35     | 4      | Dynadot, LLC           |
 | chiefofstaff.in  | available | $11.98    | —             | 60             | 9      | 14     | namecheap              |
-| assistant.in     | resell    | —         | —             | 64             | 32     | 9      | Dynadot, LLC           |
+| dawn.in          | resell    | —         | —             | 70             | 33     | 4      | Dynadot, LLC           |
 | VirginiaBeach.in | available | $11.98    | —             | 58             | 9      | 14     | namecheap              |
-| partners.in      | resell    | —         | —             | 61             | 32     | 8      | 1API GmbH              |
+| assistant.in     | resell    | —         | —             | 64             | 32     | 9      | Dynadot, LLC           |
 | keeptrack.in     | available | $11.98    | —             | 76             | 8      | 10     | namecheap              |
-| letsgo.in        | resell    | —         | —             | 57             | 31     | 7      | Spaceship, Inc.        |
-| cometo.in        | available | $11.98    | —             | 74             | 8      | 7      | namecheap              |
+| partners.in      | resell    | —         | —             | 61             | 32     | 8      | 1API GmbH              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 6,532 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 6,548 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are single-word .in names, which makes the set relevant for both buyers seeking clear brand assets and investors scanning for buyable keyword inventory. The selection includes dictionary-style words, verbs, and broad commercial terms such as moving.in, hashtag.in, mirror.in, obtain.in, pacific.in, study.in, and paper.in. When comparing these domains, focus on how naturally the word fits the .in extension, how memorable it is on first read, and whether the ask matches the word’s commercial breadth. Short, familiar words usually hold attention better, but ambiguity, weak category fit, or possible trademark overlap can reduce confidence.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Single-word .in names with broad commercial and brand use
+- Median ask is 11.20 across 6,548 listed domains
+- Examples include moving.in, mirror.in, study.in, paper.in
+- Check clarity, category fit, and trademark risk before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IN One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

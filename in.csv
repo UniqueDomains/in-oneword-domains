@@ -70,6 +70,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0c11830a-1cb8-4188-8ff6-ed28257b0c7e,gothroughwith.in,available,7.95,7.95,58,1,15,namesilo,,
 0c28f5d8-3db8-41e4-abcf-ba966751a687,inthelongterm.in,available,11.98,,60,1,16,namecheap,,
 0c30bf66-3f5c-41ec-b3e1-89fa6f98a51d,getsick.in,available,11.98,,72,1,8,namecheap,,
+0c445582-f36f-4702-9072-6c854e9e1f17,block.in,resell,,,68,36,5,NAMECHEAP,16/02/2005 08:05,16/02/2028 08:05
 0c9fd230-46d4-4281-8b19-afaa0ddbcf25,disappoints.in,available,7.95,7.95,36,1,11,namesilo,,
 0ca4d3e3-d38f-4946-9baa-2b1d2f614399,havetheupperhand.in,available,11.98,,46,1,19,namecheap,,
 0cc3a194-399c-471d-b46f-9eb61ba7d9fe,clearstuff.in,available,11.98,,70,1,11,namecheap,,
@@ -240,6 +241,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 242931bd-b398-41e6-ade8-6488867b07cb,centuries.in,available,11.98,,56,2,9,namecheap,,
 24350882-8046-40a1-a1f6-610a757ded20,synthesized.in,resell,,,57,3,11,GoDaddy,25/09/2025 17:27,25/09/2026 17:27
 24508642-91f5-4c1f-a504-d0399844ce39,inwithachance.in,available,11.98,,60,1,16,namecheap,,
+24652655-e895-4bb2-bd5e-2c5594e3e6a6,achiever.in,resell,,,82,10,8,"Dynadot, LLC",08/05/2023 20:01,08/05/2033 20:01
 24ad8fec-e6df-4acc-b7da-4e848396c932,disappointments.in,available,7.95,7.95,30,1,15,namesilo,,
 24e097ba-11f4-4b4c-b788-a752ba144646,getround.in,available,11.98,,74,0,9,namecheap,,
 25770654-619a-4ada-bd69-d3163ebe0d62,gobackalongway.in,available,11.98,,66,1,18,namecheap,,
@@ -267,6 +269,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2a19f6c9-6256-469d-adbc-df8736eade41,differed.in,available,7.95,7.95,48,2,8,namesilo,,
 2a2cc7e3-5c1f-47c5-87d2-51281b7014d2,coffeedout.in,available,11.98,,76,1,11,namecheap,,
 2a313d98-51a1-43b9-9214-6bf364900290,closeones.in,available,11.98,,52,1,10,namecheap,,
+2a561450-65bc-4f46-bc3d-707fb12e30f5,issue.in,resell,,,80,15,5,"Dynadot, LLC",22/04/2009 20:01,22/04/2031 20:01
 2a911f84-7e23-437a-a3ba-090dce42d02b,comethrough.in,available,11.98,,78,1,12,namecheap,,
 2af2d25c-8351-4e67-99c4-01ee8e3c4568,therewego.in,available,11.98,,56,2,11,namecheap,,
 2af43e97-a932-4d4e-a77f-b7ee540936dd,divein.in,available,11.98,,76,9,7,namecheap,,
@@ -321,6 +324,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 30bc0d3d-73a7-426d-92c3-7a89afc77a2e,pickover.in,available,11.98,,62,1,9,namecheap,,
 30d6efc0-578d-4716-b19d-1cb26025c0ec,Ispin.in,available,11.98,,76,5,6,namecheap,,
 30da64d5-6a9b-4fff-9cbc-4e63adee884b,gowithout.in,available,11.98,,75,1,10,namecheap,,
+30dfe925-367a-49db-a8c5-0bed3b5cb863,rage.in,resell,,,66,26,4,Costrar EOOD,04/05/2026 14:20,04/05/2027 14:20
 30e2d0b1-5726-4f19-9a4f-6cd922925759,gettingeven.in,available,11.98,,48,1,12,namecheap,,
 312f53f1-e7e2-4f4d-af97-e3db0cd8f92e,letslide.in,available,11.98,,76,1,9,namecheap,,
 3174d5e6-3ddf-42d3-841f-892084227897,cuttherug.in,available,11.98,,76,1,11,namecheap,,
@@ -456,6 +460,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 459d8acb-bcd5-438b-a146-cb7d9129e2bd,carryover.in,available,11.98,,70,2,10,namecheap,,
 45a6b777-b14a-49bd-b2be-b34725bda33b,childcategory.in,available,7.95,7.95,42,1,14,namesilo,,
 460ec122-6f9d-4fb8-bdb2-894c74e07fca,tempers.in,available,11.98,,56,2,7,namecheap,,
+461a3ce1-3f3d-462c-9bab-4a4b401534e8,title.in,resell,,,72,23,5,"Dynadot, LLC",22/04/2009 20:01,22/04/2031 20:01
 4648c976-ca53-46a3-8bda-0ef0dea73cd8,breastcancer.in,resell,,,58,9,13,"Dynadot, LLC",22/04/2010 20:00,22/04/2028 20:00
 465f17fe-c0c7-4f2e-a3ec-0c089a73e805,thirdyear.in,available,7.95,7.95,66,1,10,namesilo,,
 46630f4c-77af-43f5-b0c7-e0f83cd63789,believed.in,available,11.98,,64,3,8,namecheap,,
@@ -506,6 +511,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4bef3979-0989-40d5-8e0b-25866f69482d,packingtape.in,available,11.98,,70,2,12,namecheap,,
 4bf67fd0-554a-454a-87f1-1350fdaf85ad,keepunder.in,available,11.98,,66,1,10,namecheap,,
 4c0ffcf4-15a0-4abb-b08f-94c262ae31e2,collapses.in,available,7.95,7.95,38,1,9,namesilo,,
+4c8cf61a-8962-4d69-9e81-ec54fbfc4b8d,irons.in,premium,,,62,8,5,,,
 4c97bea9-98de-4e00-8b7a-7509810c7887,hammerout.in,available,11.98,,70,1,10,namecheap,,
 4cae9619-1abc-401d-99c3-e88a73ae73ee,CountriesinAsia.in,available,7.95,7.95,48,1,17,namesilo,,
 4d2d6d87-d600-4f48-ae2f-1d31c49d319c,jollyalong.in,available,11.98,,82,1,11,namecheap,,
@@ -538,6 +544,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 525487dd-8d22-4ba8-bbab-90e1fb592959,Ilostmykeys.in,available,11.98,,50,1,14,namecheap,,
 52577e58-48b2-4c9d-8e15-a1b401ab3439,keephouse.in,available,11.98,,70,2,10,namecheap,,
 525f235a-b50c-4a2b-8948-21b83269a8ec,photocopying.in,available,7.95,7.95,68,2,12,namesilo,,
+5281d286-81f0-4f52-9fdb-3b371372deb9,aspect.in,resell,,,74,23,6,"Dynadot, LLC",30/05/2008 20:03,30/05/2032 20:03
 52b486c7-b450-4b63-afa8-4fa2af72fad0,bubbles.in,resell,,,72,21,7,"Dynadot, LLC",15/10/2007 13:53,15/10/2027 13:53
 52b5a6bb-a8e1-442e-8e4a-f000edbd81e7,inorderfor.in,available,11.98,,60,0,12,namecheap,,
 52cbd9e7-cc91-4e0c-9262-42c1d9d7b9b0,getthehangof.in,available,11.98,,71,1,15,namecheap,,
@@ -992,10 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 92d27d1a-81b7-45d4-95b0-e71751ca0334,survived.in,available,7.95,7.95,54,5,8,namesilo,,
 92e856ec-0ed4-4ea7-b66a-008f4cd3ec36,joggingsuit.in,available,11.98,,61,1,12,namecheap,,
 93218145-dbc3-49e1-aeb1-b363fb501b6d,beawake.in,available,11.98,,84,3,8,namecheap,,
-93254292-b862-4c63-a0ed-1844504d91f0,mostoften.in,available,11.98,,56,0,10,namecheap,,
-933f5633-4aff-4eb6-aad9-ee1d8b7c959f,waxedpaper.in,available,11.98,,65,1,11,namecheap,,
-936f0376-51f3-4e26-b0f9-2922052406a6,CountyofYoung.in,available,11.98,,42,1,15,namecheap,,
-9383686a-edff-411a-8b75-46232e88660c,incheck.in,available,11.98,,46,5,8,namecheap,,
-93b94e0a-74ba-4886-99f9-096c7e8005fc,inhospital.in,available,11.98,,60,1,11,namecheap,,
-93d0b810-27ee-4cf7-bf69-7059ab15d2b5,sexualassault.in,available,11.98,,43,3,14,namecheap,,
-93e1827d-6f40-4b5e-8406-0da4b812ae06,hasto.in,available,7.95,7.95,56,3,6,namesilo,,
