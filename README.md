@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| RedSox.in        | available | $11.98    | —             | 72             | 60     | 7      | namecheap              |
-| makers.in        | resell    | —         | —             | 62             | 67     | 6      | Realtime Register B.V. |
-| irons.in         | premium   | —         | —             | 62             | 8      | 5      | —                      |
-| tomorrows.in     | available | $7.95     | $7.95         | 60             | 11     | 9      | namesilo               |
-| united.in        | resell    | —         | —             | 74             | 41     | 6      | Dynadot, LLC           |
-| legalheir.in     | premium   | —         | —             | 71             | 1      | 10     | —                      |
-| yoursever.in     | available | $11.98    | —             | 56             | 10     | 10     | namecheap              |
-| shortcuts.in     | resell    | —         | —             | 48             | 41     | 10     | Dynadot, LLC           |
-| plateout.in      | premium   | —         | —             | 65             | 1      | 9      | —                      |
-| mutualaid.in     | available | $11.98    | —             | 78             | 9      | 10     | namecheap              |
-| block.in         | resell    | —         | —             | 68             | 36     | 5      | NAMECHEAP              |
-| platearmour.in   | premium   | —         | —             | 65             | 1      | 12     | —                      |
-| divein.in        | available | $11.98    | —             | 76             | 9      | 7      | namecheap              |
-| list.in          | resell    | —         | —             | 70             | 35     | 4      | Dynadot, LLC           |
-| chiefofstaff.in  | available | $11.98    | —             | 60             | 9      | 14     | namecheap              |
-| dawn.in          | resell    | —         | —             | 70             | 33     | 4      | Dynadot, LLC           |
-| VirginiaBeach.in | available | $11.98    | —             | 58             | 9      | 14     | namecheap              |
-| assistant.in     | resell    | —         | —             | 64             | 32     | 9      | Dynadot, LLC           |
-| keeptrack.in     | available | $11.98    | —             | 76             | 8      | 10     | namecheap              |
-| partners.in      | resell    | —         | —             | 61             | 32     | 8      | 1API GmbH              |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| RedSox.in       | available | $11.98    | —             | 72             | 60     | 7      | namecheap              |
+| makers.in       | resell    | —         | —             | 62             | 67     | 6      | Realtime Register B.V. |
+| irons.in        | premium   | —         | —             | 62             | 8      | 5      | —                      |
+| tomorrows.in    | available | $7.95     | $7.95         | 60             | 11     | 9      | namesilo               |
+| united.in       | resell    | —         | —             | 74             | 41     | 6      | Dynadot, LLC           |
+| legalheir.in    | premium   | —         | —             | 71             | 1      | 10     | —                      |
+| yoursever.in    | available | $11.98    | —             | 56             | 10     | 10     | namecheap              |
+| shortcuts.in    | resell    | —         | —             | 48             | 41     | 10     | Dynadot, LLC           |
+| plateout.in     | premium   | —         | —             | 65             | 1      | 9      | —                      |
+| mutualaid.in    | available | $11.98    | —             | 78             | 9      | 10     | namecheap              |
+| view.in         | resell    | —         | —             | 76             | 37     | 4      | Dynadot, LLC           |
+| platearmour.in  | premium   | —         | —             | 65             | 1      | 12     | —                      |
+| divein.in       | available | $11.98    | —             | 76             | 9      | 7      | namecheap              |
+| block.in        | resell    | —         | —             | 68             | 36     | 5      | NAMECHEAP              |
+| chiefofstaff.in | available | $11.98    | —             | 60             | 9      | 14     | namecheap              |
+| list.in         | resell    | —         | —             | 70             | 35     | 4      | Dynadot, LLC           |
+| keeptrack.in    | available | $11.98    | —             | 76             | 8      | 10     | namecheap              |
+| dawn.in         | resell    | —         | —             | 70             | 33     | 4      | Dynadot, LLC           |
+| cometo.in       | available | $11.98    | —             | 74             | 8      | 7      | namecheap              |
+| assistant.in    | resell    | —         | —             | 64             | 32     | 9      | Dynadot, LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
