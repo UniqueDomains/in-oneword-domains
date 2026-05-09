@@ -805,6 +805,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 73ee58a8-5066-46db-8462-29cb540845b5,goinfor.in,available,7.95,7.95,74,1,9,namesilo,,
 74159785-cd3f-4c8b-8163-0cf797a99f06,networks.in,resell,,,60,20,8,"Dynadot, LLC",16/02/2005 06:48,16/02/2028 06:48
 741f9cfd-5c03-4286-b0dd-8dba06c4e0a3,budgets.in,resell,,,60,7,7,"Dynadot, LLC",07/07/2016 20:02,07/07/2026 20:02
+747fc451-b82b-44c1-91ba-3fe75d84e4e7,sequel.in,resell,,,78,16,6,"Dynadot, LLC",13/04/2009 02:41,13/04/2031 02:41
 74849bd3-e0c9-49f4-b6ab-f29471df3db8,costcontainment.in,available,11.98,,42,2,16,namecheap,,
 749b319f-7fd7-43c8-bcc8-7ba59b5bfa6b,mouths.in,available,11.98,,49,3,6,namecheap,,
 74ca92be-6b8f-4eae-ba58-ac1c124a90bb,Trex.in,resell,,,80,24,5,"Dynadot, LLC",10/02/2015 20:00,10/02/2027 20:00
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 92258663-3dc4-4fbd-ab73-9bbdefb92d57,feeltheburn.in,available,11.98,,76,2,13,namecheap,,
 92325886-d684-45a4-a152-7f9fb1280ab4,intheeventof.in,available,11.98,,46,2,15,namecheap,,
 92475b49-45f5-47bf-9bb9-c2d1b16bfc9a,has.in,resell,,,60,26,3,"Dynadot, LLC",22/03/2006 23:37,22/03/2028 23:37
-924ae52a-c563-476f-a0b7-fabd99ec7031,devotes.in,available,7.95,7.95,56,2,7,namesilo,,
