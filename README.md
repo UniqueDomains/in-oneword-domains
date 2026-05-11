@@ -1,10 +1,10 @@
-# Available .IN One-Word Domains (6,566)
+# Available .IN One-Word Domains (6,571)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C566%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C571%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .in one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **6,566 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **6,571 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 6,566 domains · **Median ask:** $11.20 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 6,571 domains · **Median ask:** $11.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-09  
+**Last updated:** 2026-05-11  
 **Canonical page:** `https://unique.domains/domains/tld/in`  
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | irons.in        | premium   | —         | —             | 62             | 8      | 5      | —                      |
 | tomorrows.in    | available | $7.95     | $7.95         | 60             | 11     | 9      | namesilo               |
 | united.in       | resell    | —         | —             | 74             | 41     | 6      | Dynadot, LLC           |
-| legalheir.in    | premium   | —         | —             | 71             | 1      | 10     | —                      |
+| Googler.in      | premium   | —         | —             | 80             | 7      | 7      | —                      |
 | yoursever.in    | available | $11.98    | —             | 56             | 10     | 10     | namecheap              |
 | shortcuts.in    | resell    | —         | —             | 48             | 41     | 10     | Dynadot, LLC           |
-| plateout.in     | premium   | —         | —             | 65             | 1      | 9      | —                      |
+| legalheir.in    | premium   | —         | —             | 71             | 1      | 10     | —                      |
 | mutualaid.in    | available | $11.98    | —             | 78             | 9      | 10     | namecheap              |
 | view.in         | resell    | —         | —             | 76             | 37     | 4      | Dynadot, LLC           |
-| platearmour.in  | premium   | —         | —             | 65             | 1      | 12     | —                      |
+| plateout.in     | premium   | —         | —             | 65             | 1      | 9      | —                      |
 | divein.in       | available | $11.98    | —             | 76             | 9      | 7      | namecheap              |
 | block.in        | resell    | —         | —             | 68             | 36     | 5      | NAMECHEAP              |
+| platearmour.in  | premium   | —         | —             | 65             | 1      | 12     | —                      |
 | chiefofstaff.in | available | $11.98    | —             | 60             | 9      | 14     | namecheap              |
 | list.in         | resell    | —         | —             | 70             | 35     | 4      | Dynadot, LLC           |
 | keeptrack.in    | available | $11.98    | —             | 76             | 8      | 10     | namecheap              |
 | dawn.in         | resell    | —         | —             | 70             | 33     | 4      | Dynadot, LLC           |
 | cometo.in       | available | $11.98    | —             | 74             | 8      | 7      | namecheap              |
-| palm.in         | resell    | —         | —             | 79             | 32     | 4      | Dynadot, LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 6,566 live domains                         |
+| 1,000-row public sample | 6,571 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IN One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IN One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
