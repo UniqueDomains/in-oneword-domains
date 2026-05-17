@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .in one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 6,576 domains · **Median ask:** $11.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/in`  
 **Best for:** founders, investors, studios
 
@@ -79,11 +79,11 @@ print(df.head())
 | chiefofstaff.in  | available | $11.98    | —             | 60             | 9      | 14     | namecheap              |
 | block.in         | resell    | —         | —             | 68             | 36     | 5      | NAMECHEAP              |
 | platearmour.in   | premium   | —         | —             | 65             | 1      | 12     | —                      |
-| keeptrack.in     | available | $11.98    | —             | 76             | 8      | 10     | namecheap              |
+| letitbe.in       | available | $11.98    | —             | 89             | 8      | 9      | namecheap              |
 | list.in          | resell    | —         | —             | 70             | 35     | 4      | Dynadot, LLC           |
-| cometo.in        | available | $11.98    | —             | 74             | 8      | 7      | namecheap              |
+| keeptrack.in     | available | $11.98    | —             | 76             | 8      | 10     | namecheap              |
 | dawn.in          | resell    | —         | —             | 70             | 33     | 4      | Dynadot, LLC           |
-| movingforward.in | available | $11.98    | —             | 56             | 8      | 14     | namecheap              |
+| getittogether.in | available | $11.98    | —             | 75             | 8      | 15     | namecheap              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IN One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
