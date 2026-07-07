@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .in one-word domains from U
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **6,579 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 6,579 domains · **Median ask:** $11.20 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 6,579 domains · **Median ask:** $9.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/in`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/in`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .IN one-word domain ca
 
 ### Files
 
-- `in.csv` — public CSV extract (1,000 rows)
-- `in.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `in.csv`, public CSV extract (1,000 rows)
+- `in.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| RedSox.in       | available | $11.98    | —             | 72             | 60     | 7      | namecheap              |
-| makers.in       | resell    | —         | —             | 62             | 67     | 6      | Realtime Register B.V. |
-| irons.in        | premium   | —         | —             | 62             | 8      | 5      | —                      |
-| tomorrows.in    | available | $7.95     | $7.95         | 60             | 11     | 9      | namesilo               |
-| united.in       | resell    | —         | —             | 74             | 41     | 6      | Dynadot, LLC           |
-| Googler.in      | premium   | —         | —             | 80             | 7      | 7      | —                      |
-| mutualaid.in    | available | $11.98    | —             | 78             | 9      | 10     | namecheap              |
-| shortcuts.in    | resell    | —         | —             | 48             | 41     | 10     | Dynadot, LLC           |
-| highseas.in     | premium   | —         | —             | 74             | 7      | 9      | —                      |
-| divein.in       | available | $11.98    | —             | 76             | 9      | 7      | namecheap              |
-| view.in         | resell    | —         | —             | 76             | 37     | 4      | Dynadot, LLC           |
-| plateup.in      | premium   | —         | —             | 74             | 3      | 8      | —                      |
-| chiefofstaff.in | available | $11.98    | —             | 60             | 9      | 14     | namecheap              |
-| block.in        | resell    | —         | —             | 68             | 36     | 5      | NAMECHEAP              |
-| legalheir.in    | premium   | —         | —             | 71             | 1      | 10     | —                      |
-| letitbe.in      | available | $11.98    | —             | 89             | 8      | 9      | namecheap              |
-| list.in         | resell    | —         | —             | 70             | 35     | 4      | Dynadot, LLC           |
-| plateout.in     | premium   | —         | —             | 65             | 1      | 9      | —                      |
-| keeptrack.in    | available | $11.98    | —             | 76             | 8      | 10     | namecheap              |
-| dawn.in         | resell    | —         | —             | 70             | 33     | 4      | Dynadot, LLC           |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| feel.in  | resell    | —         | —             | high           | low    | 4      | 101domain GRS Ltd.                                  |
+| quiet.in | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC                                        |
+| there.in | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC                                        |
+| asof.in  | available | $11.98    | —             | medium         | low    | 5      | namecheap                                           |
+| air.in   | resell    | —         | —             | high           | medium | 3      | Dynadot, LLC                                        |
+| badly.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo                                            |
+| ash.in   | resell    | —         | —             | medium         | low    | 3      | Dynadot, LLC                                        |
+| banal.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo                                            |
+| awe.in   | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                        |
+| corny.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo                                            |
+| bio.in   | resell    | —         | —             | high           | medium | 3      | 1API GmbH                                           |
+| fewer.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo                                            |
+| bum.in   | resell    | —         | —             | high           | low    | 3      | Endurance Digital Domain Technology Private Limited |
+| HIPAA.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo                                            |
+| clv.in   | resell    | —         | —             | medium         | low    | 3      | Dynadot, LLC                                        |
+| lying.in | available | $7.95     | $7.95         | high           | low    | 5      | namesilo                                            |
+| cue.in   | resell    | —         | —             | medium         | low    | 3      | Dynadot, LLC                                        |
+| niece.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo                                            |
+| des.in   | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                        |
+| Panes.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are single-word .in names, which makes the set relevant for both buyers seeking clear brand assets and investors scanning for buyable keyword inventory. The selection includes dictionary-style words, verbs, and broad commercial terms such as moving.in, hashtag.in, mirror.in, obtain.in, pacific.in, study.in, and paper.in. When comparing these domains, focus on how naturally the word fits the .in extension, how memorable it is on first read, and whether the ask matches the word’s commercial breadth. Short, familiar words usually hold attention better, but ambiguity, weak category fit, or possible trademark overlap can reduce confidence.
+This list covers 6,579 one-word .IN domain names, from everyday English terms like half.in and belt.in to compound brandable picks such as bonvoyage.in and butterflies.in. With a median ask near $9, .IN remains one of the more accessible country-code options for short, memorable names. Both investors scanning for low-cost coverage and founders hunting a clean, ownable name can use price and word quality as the primary criteria when comparing entries in this set.
 
-- Single-word .in names with broad commercial and brand use
-- Median ask is 11.20 across 6,548 listed domains
-- Examples include moving.in, mirror.in, study.in, paper.in
-- Check clarity, category fit, and trademark risk before buying
+- 6,579 one-word .IN domain names in this set
+- Median ask near $9 across the list
+- Mix of English words and short brandable compounds
+- Suited to low-cost country-code coverage and quick shortlisting
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
