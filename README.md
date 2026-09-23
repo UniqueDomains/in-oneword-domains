@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .in one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,644 domains · **Median ask:** $8.42 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/in`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| feel.in    | resell    | —         | —             | high           | low    | 4      | 101domain GRS Ltd.                                  |
-| premier.in | resell    | —         | —             | high           | low    | 7      | Endurance Digital Domain Technology Private Limited |
-| warm.in    | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC                                        |
-| minute.in  | resell    | —         | —             | high           | low    | 6      | Dynadot, LLC                                        |
-| alky.in    | available | $7.95     | $7.95         | low            | low    | 4      | namesilo                                            |
-| ash.in     | resell    | —         | —             | medium         | low    | 3      | Dynadot, LLC                                        |
-| lxvi.in    | available | $7.95     | $7.95         | low            | low    | 4      | namesilo                                            |
-| awe.in     | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                        |
-| xcii.in    | available | $9.98     | $11.98        | low            | low    | 4      | namecheap                                           |
-| bio.in     | resell    | —         | —             | high           | medium | 3      | 1API GmbH                                           |
-| xxxv.in    | available | $7.95     | $7.95         | low            | low    | 4      | namesilo                                            |
-| bow.in     | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                        |
-| adust.in   | available | $7.95     | $7.95         | low            | low    | 5      | namesilo                                            |
-| bum.in     | resell    | —         | —             | high           | low    | 3      | Endurance Digital Domain Technology Private Limited |
-| algid.in   | available | $7.95     | $7.95         | low            | low    | 5      | namesilo                                            |
-| clv.in     | resell    | —         | —             | low            | low    | 3      | Dynadot, LLC                                        |
-| amort.in   | available | $9.98     | $11.98        | low            | low    | 5      | namecheap                                           |
-| cue.in     | resell    | —         | —             | medium         | low    | 3      | Dynadot, LLC                                        |
-| asof.in    | available | $11.98    | —             | medium         | low    | 5      | namecheap                                           |
-| des.in     | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                        |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| feel.in  | resell    | —         | —             | high           | low    | 4      | 101domain GRS Ltd.                                  |
+| alky.in  | available | $7.95     | $7.95         | low            | low    | 4      | namesilo                                            |
+| ash.in   | resell    | —         | —             | medium         | low    | 3      | Dynadot, LLC                                        |
+| lxvi.in  | available | $7.95     | $7.95         | low            | low    | 4      | namesilo                                            |
+| awe.in   | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                        |
+| xcii.in  | available | $9.98     | $11.98        | low            | low    | 4      | namecheap                                           |
+| bio.in   | resell    | —         | —             | high           | medium | 3      | 1API GmbH                                           |
+| xxxv.in  | available | $7.95     | $7.95         | low            | low    | 4      | namesilo                                            |
+| bow.in   | resell    | —         | —             | medium         | low    | 3      | Dynadot, LLC                                        |
+| adust.in | available | $7.95     | $7.95         | low            | low    | 5      | namesilo                                            |
+| bum.in   | resell    | —         | —             | high           | low    | 3      | Endurance Digital Domain Technology Private Limited |
+| algid.in | available | $7.95     | $7.95         | low            | low    | 5      | namesilo                                            |
+| clv.in   | resell    | —         | —             | low            | low    | 3      | Dynadot, LLC                                        |
+| amort.in | available | $9.98     | $11.98        | low            | low    | 5      | namecheap                                           |
+| cue.in   | resell    | —         | —             | medium         | low    | 3      | Dynadot, LLC                                        |
+| asof.in  | available | $11.98    | —             | medium         | low    | 5      | namecheap                                           |
+| des.in   | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                        |
+| banal.in | available | $7.95     | $7.95         | low            | low    | 5      | namesilo                                            |
+| fat.in   | resell    | —         | —             | medium         | low    | 3      | Endurance Digital Domain Technology Private Limited |
+| baric.in | available | $7.95     | $7.95         | low            | low    | 5      | namesilo                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IN One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
