@@ -1,10 +1,10 @@
-# Available .IN One-Word Domains (11,544)
+# Available .IN One-Word Domains (12,431)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C544%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C431%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .in one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,544 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,431 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,544 domains · **Median ask:** $8.21 · **High-demand under $2,500:** 11
+**Public extract:** 1,000 rows · **Live catalog:** 12,431 domains · **Median ask:** $8.13 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/in`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | all.in   | resell    | —         | —             | high           | medium | 3      | GoDaddy             |
 | gogh.in  | available | $5.97     | $5.97         | medium         | low    | 4      | spaceship           |
 | ant.in   | resell    | —         | —             | high           | medium | 3      | Dynadot, LLC        |
-| usaf.in  | available | $9.98     | $11.98        | high           | low    | 4      | namecheap           |
+| sejm.in  | available | $7.95     | $7.95         | high           | low    | 4      | namesilo            |
 | dma.in   | resell    | —         | —             | high           | low    | 3      | —                   |
-| acerb.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo            |
+| usaf.in  | available | $9.98     | $11.98        | medium         | low    | 4      | namecheap           |
 | lou.in   | resell    | —         | —             | high           | low    | 3      | Tucows Domains Inc. |
-| acold.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo            |
+| wilt.in  | available | $5.97     | $5.97         | medium         | low    | 4      | spaceship           |
 | mug.in   | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC        |
-| aedes.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo            |
+| acerb.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo            |
+| pds.in   | resell    | —         | —             | high           | low    | 3      | —                   |
+| acold.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo            |
 | prc.in   | resell    | —         | —             | high           | low    | 3      | GoDaddy             |
-| aggro.in | available | $9.98     | $11.98        | medium         | low    | 5      | namecheap           |
+| aedes.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo            |
 | tao.in   | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.     |
-| alces.in | available | $7.95     | $7.95         | high           | low    | 5      | namesilo            |
+| aggro.in | available | $9.98     | $11.98        | medium         | low    | 5      | namecheap           |
 | zdv.in   | resell    | —         | —             | medium         | low    | 3      | Dynadot, LLC        |
-| amati.in | available | $7.95     | $7.95         | medium         | low    | 5      | namesilo            |
-| alca.in  | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,544 live domains                        |
+| 1,000-row public sample | 12,431 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 11 high-demand names under $2,500          |
+| Basic exported fields   | 13 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IN One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IN One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
